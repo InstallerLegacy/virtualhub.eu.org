@@ -7,6 +7,7 @@ import styles from './contact.module.css';
 # Contact
 
 <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+  <input type="hidden" name="form-name" value="contact" />
   <div className={styles.formInner}>
     <div className={styles.hidden}>
         <p>Don’t fill this out if you’re human: </p>
