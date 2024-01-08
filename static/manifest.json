@@ -1,0 +1,29 @@
+{
+  "name": "VirtualHub",
+  "short_name": "VirtualHub",
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "display": "standalone",
+  "scope": "/",
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "description": "Install old OSs and apps in VMs and emulators.",
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://virtualhub.eu.org/manifest.json"
+    }
+  ],
+  "icons": [
+    {
+      "src": "img/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

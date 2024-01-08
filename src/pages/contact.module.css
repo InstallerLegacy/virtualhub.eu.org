@@ -1,0 +1,39 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.formInner {
+padding: 40px;
+}
+.formInner input,
+.formInner textarea {
+display: block;
+width: 100%;
+padding: 15px;
+margin-bottom: 10px;
+border: none;
+border-radius: 20px;
+background: #dff5e5;
+color: black;
+}
+.formInner textarea {
+resize: none;
+}
+.greenButton {
+width: 100%;
+padding: 10px;
+margin-top: 20px;
+border-radius: 20px;
+border: none;
+background: #15ba47;
+font-size: 16px;
+font-weight: 400;
+color: #fff;
+}
+.greenButton:hover {
+background: #00581b;
+}
+.hidden {
+display: none;
+}
