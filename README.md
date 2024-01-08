@@ -3,8 +3,6 @@
 <h1>VirtualHub</h1>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f3628b8f-6401-45f2-8363-1c1db1543cfe/deploy-status)](https://app.netlify.com/sites/virtua1hub/deploys)
-[![CodeQL](https://github.com/InstallerLegacy/virtualhub.eu.org/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/InstallerLegacy/virtualhub.eu.org/actions/workflows/codeql-analysis.yml)
-[![Hyas CI](https://github.com/InstallerLegacy/virtualhub.eu.org/actions/workflows/node.js-ci.yml/badge.svg)](https://github.com/InstallerLegacy/virtualhub.eu.org/actions/workflows/node.js-ci.yml)
 [![Discord](https://discordapp.com/api/guilds/1176107431013646357/widget.png?style=shield)](https://chat.virtualhub.eu.org)
 
 <p align="center">Welcome to VirtualHub, the playground of legacy Operating Systems. Here, we are going to install the same operating system in many different Virtual Environments and Emulators.</p>
