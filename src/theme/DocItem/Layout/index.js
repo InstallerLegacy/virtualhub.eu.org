@@ -41,9 +41,9 @@ export default function DocItemLayout({children}) {
       <Giscus
         id="comments"
         repo="InstallerLegacy/virtualhub.eu.org"
-        repoId="R_kgDOH8Gw8w"
+        repoId="R_kgDOLCT14w"
         category="Comments"
-        categoryId="DIC_kwDOH8Gw884CRQXl"
+        categoryId="DIC_kwDOLCT1484CcS1P"
         mapping="pathname"
         strict="1"
         reactionsEnabled="1"
