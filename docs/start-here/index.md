@@ -8,13 +8,6 @@ description: "Categorizing the tutorials on basis of type of OS."
 
 This page categorizes the tutorials on basis of type of OS. If you are interested in operating systems from specific years, use the navigation bar above and choose the appropriate decade under "OSs".
 
-<div className='container'>
-  <div className="row">
-    <div className="col text--center padding-horiz--md padding-vert--md">
-      <a href="/start-here/unix" className="button button--primary">Unix</a>
-    </div>
-    <div className="col text--center padding-horiz--md padding-vert--md">
-      <a href="/start-here/others" className="button button--primary">Other Operating Systems</a>
-    </div>
-  </div>
-</div>
+- [Unix](/start-here/unix)
+- [DEC Operating Systems](/start-here/dec)
+- [Other Operating Systems](/start-here/others)
