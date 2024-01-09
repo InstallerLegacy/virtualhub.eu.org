@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/InstallerLegacy/virtualhub.eu.org/tree/main/',
+            'https://github.com/InstallerLegacy/virtualhub.eu.org/edit/main/',
           routeBasePath: '/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
@@ -54,7 +54,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/InstallerLegacy/virtualhub.eu.org/tree/main/',
+            'https://github.com/InstallerLegacy/virtualhub.eu.org/edit/main/',
           blogTitle: 'VirtualHub Blog',
           blogDescription: 'The VirtualHub Blog.',
         },
