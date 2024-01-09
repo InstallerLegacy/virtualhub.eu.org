@@ -76,7 +76,7 @@ const config = {
       {
         debug: false,
         injectManifestConfig: {
-          globPatterns: ['**/*.{pwa}'],
+          globPatterns: ['**/*.{webp}'],
         },
         offlineModeActivationStrategies: [
           'appInstalled',
