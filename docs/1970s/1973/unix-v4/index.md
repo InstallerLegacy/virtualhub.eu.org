@@ -27,8 +27,6 @@ You may also be interested in the PDP-11 manuals. It was the computer on which !
 
 - [PDP-11 Manuals](http://bitsavers.org/pdf/dec/pdp11/)
 
-In particular, you may be interested in these:
-
 ## Related Pages
 
 - [VirtualHub Screenshots](https://screenshots.virtualhub.eu.org/1970s/1973/unix-v4/)
