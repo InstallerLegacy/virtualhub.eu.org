@@ -76,6 +76,12 @@ You can now run `ls` to see the list of files. To change directory, you need to 
 
 ![! Unix-v1 list of files in root.](./unix-v1-SIMH-4.webp)
 
+:::tip
+
+You can also login using a non-admin user `ken`. You can run `chdir /` to move to `/` and then run `ls` to see list of files and folders in `/`.
+
+:::
+
 That's it! We used ! Unix-v1. We can create a shell script to make it easy to launch the VM. Create a file called `unix-v1.sh` with the following content:
 
 ```bash
