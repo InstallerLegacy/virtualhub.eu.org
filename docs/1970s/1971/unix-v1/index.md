@@ -25,6 +25,11 @@ Since the copy we have has v2 userland, you will be interested in ! Unix v2 manu
 
 - [! Unix Programmer's Manual, 2nd Edition](https://www.tuhs.org/Archive/Distributions/Research/Dennis_v2/v2man.pdf)
 
+Reading the volume 2A and 2B of ! Unix v7 manual is also helpful. They contain many short tutorials which will be helpful in learning how to use Unix. While the manual is for v7, most of the information included there applies to every version of Unix.
+
+- [! Unix Programmer's Manual, 7th Edition, Volume 2A](https://s3.amazonaws.com/plan9-bell-labs/7thEdMan/v7vol2a.pdf)
+- [! Unix Programmer's Manual, 7th Edition, Volume 2B](https://s3.amazonaws.com/plan9-bell-labs/7thEdMan/v7vol2b.pdf)
+
 You may also be interested in the PDP-11 manuals. It was the computer on which ! Unix v1 as well as ! Unix v2 was supposed to run. You can download them from Bitsavers:
 
 - [PDP-11 Manuals](http://bitsavers.org/pdf/dec/pdp11/)
