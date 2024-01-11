@@ -10,3 +10,4 @@ sidebar_label: PDP-11
 These operating systems were made by [DEC](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation) for their [PDP-11](https://en.wikipedia.org/wiki/PDP-11) computers.
 
 - [! CAPS-11](/1970s/1970/caps-11/)
+- [! DOS-11](/1970s/1970/dos-11/)
