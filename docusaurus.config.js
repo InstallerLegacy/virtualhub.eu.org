@@ -17,6 +17,7 @@ const config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
+  trailingSlash: true,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -144,12 +145,12 @@ const config = {
           autoCollapseCategories: true,
         },
       },
-      // algolia: {
-      //  appId: 'XPNHJL7525',
-      //  apiKey: 'ea7c0c750fef6253cfabb1b85d4f5210',
-      //  indexName: 'netlify_f3628b8f-6401-45f2-8363-1c1db1543cfe_main_all',
-      //  contextualSearch: false,
-      //},
+       algolia: {
+        appId: 'JVIYZSZHM3',
+        apiKey: '6d3896a19f59998eae9cd9661849666d',
+        indexName: 'virtualhub-eu',
+        contextualSearch: false,
+      },
       // Replace with your project's social card
       image: 'img/virtualhub-social-card.webp',
       zoom: {},
