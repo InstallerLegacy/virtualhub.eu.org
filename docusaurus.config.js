@@ -144,12 +144,12 @@ const config = {
           autoCollapseCategories: true,
         },
       },
-      algolia: {
-        appId: 'XPNHJL7525',
-        apiKey: 'ea7c0c750fef6253cfabb1b85d4f5210',
-        indexName: 'netlify_f3628b8f-6401-45f2-8363-1c1db1543cfe_main_all',
-        contextualSearch: false,
-      },
+      // algolia: {
+      //  appId: 'XPNHJL7525',
+      //  apiKey: 'ea7c0c750fef6253cfabb1b85d4f5210',
+      //  indexName: 'netlify_f3628b8f-6401-45f2-8363-1c1db1543cfe_main_all',
+      //  contextualSearch: false,
+      //},
       // Replace with your project's social card
       image: 'img/virtualhub-social-card.webp',
       zoom: {},
