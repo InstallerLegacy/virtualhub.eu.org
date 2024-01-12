@@ -149,7 +149,6 @@ const config = {
         appId: 'JVIYZSZHM3',
         apiKey: '6d3896a19f59998eae9cd9661849666d',
         indexName: 'virtualhub-eu',
-        contextualSearch: false,
       },
       // Replace with your project's social card
       image: 'img/virtualhub-social-card.webp',
