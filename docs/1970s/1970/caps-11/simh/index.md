@@ -6,7 +6,7 @@ sidebar_position: 1
 sidebar_label: "! CAPS-11 on SIMH"
 ---
 
-# How to install CAPS-11 on SIMH?
+# How to install ! CAPS-11 on SIMH?
 
 ![SIMH PDP-11 emulator with ! CAPS-11](./caps-11-SIMH-3.webp)
 

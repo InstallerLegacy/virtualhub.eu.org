@@ -6,7 +6,7 @@ sidebar_position: 1
 sidebar_label: "! DOS-11 on SIMH"
 ---
 
-# How to install DOS-11 on SIMH?
+# How to install ! DOS-11 on SIMH?
 
 ![SIMH PDP-11 emulator with ! DOS-11](./dos-11-simh-23.webp)
 
