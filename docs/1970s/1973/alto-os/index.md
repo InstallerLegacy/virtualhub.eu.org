@@ -50,7 +50,7 @@ You may also be interested in the Alto hardware manual:
 ## Related Pages
 
 - [VirtualHub Screenshots](https://screenshots.virtualhub.eu.org/1970s/1973/alto-os/)
-- [Run Alto OS in your browser: ContrAltoJS](https://archives.loomcom.com/contraltojs/)
+- [Run Alto OS in your browser: ContrAltoJS](https://archives.loomcom.com/contraltojs/)  (Instructions given on page)
 - [Wikipedia](https://en.wikipedia.org/wiki/Xerox_Alto#Software)
 - [Computer History Wiki Alto page](https://gunkies.org/wiki/Xerox_Alto)
 - [Toasty Tech Xerox Alto page](http://toastytech.com/guis/alto.html)
