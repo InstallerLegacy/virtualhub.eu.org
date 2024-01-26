@@ -11,3 +11,4 @@ To learn more about Research Unix, see [this Wikipedia page](https://en.wikipedi
 - [! PDP-7 Unix](/1970s/1970/pdp7unix/)
 - [! Unix v1](/1970s/1971/unix-v1/)
 - [! Unix v4](/1970s/1973/unix-v4/)
+- [! Unix v5](/1970s/1974/unix-v5/)
