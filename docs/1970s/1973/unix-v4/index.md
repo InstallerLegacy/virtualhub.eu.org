@@ -21,7 +21,7 @@ Since the kernel is from between v3 and v4, and we use the userland of v5, here 
 
 - [! Unix Programmer's Manual, 3rd Edition](https://dspinellis.github.io/unix-v3man/v3man.pdf)
 - [! Unix Programmer's Manual, 4th Edition](https://dspinellis.github.io/unix-v4man/v4man.pdf)
-- [! Unix Programmer's Manual, 5th Edition](https://www.tuhs.org/Archive/Distributions/Research/Dennis_v5/v5man.pdf)
+- [! Unix Programmer's Manual, 5th Edition](http://squoze.net/UNIX/v5man/all.pdf)
 
 Reading the volume 2A and 2B of ! Unix v7 manual is also helpful. They contain many short tutorials which will be helpful in learning how to use Unix. While the manual is for v7, most of the information included there applies to every version of Unix.
 
@@ -40,8 +40,11 @@ You may also be interested in the PDP-11 manuals. It was the computer on which !
 - [Computer History Wiki ! Unix v4 page](https://gunkies.org/wiki/UNIX_Fourth_Edition)
 - [Computer History Wiki ! Unix v5 page](https://gunkies.org/wiki/UNIX_Fifth_Edition)
 - [Computer History Wiki PDP-11 page](https://gunkies.org/wiki/PDP-11)
+- [The Unix Heritage Society (TUHS) wiki page on ! Unix v3](https://wiki.tuhs.org/doku.php?id=systems:3rd_edition)
+- [The Unix Heritage Society (TUHS) wiki page on ! Unix v4](https://wiki.tuhs.org/doku.php?id=systems:4th_edition)
+- [The Unix Heritage Society (TUHS) wiki page on ! Unix v5](https://wiki.tuhs.org/doku.php?id=systems:5th_edition)
 
 ## Credits
 
 - ! Unix v3 and v4 manuals were taken from the page of the GitHub user "[dspinellis](https://github.com/dspinellis)".
-- The rest of the manuals were taken from [The Unix Heritage Society (TUHS)](https://www.tuhs.org) and [Bitsavers](http://bitsavers.org).
+- The rest of the manuals were taken from [http://squoze.net](http://squoze.net/), [this page from Bell Labs](https://s3.amazonaws.com/plan9-bell-labs/7thEdMan/bswv7.html) and [Bitsavers](http://bitsavers.org).

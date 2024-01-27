@@ -19,7 +19,7 @@ import DocCardList from '@theme/DocCardList';
 
 Here is the manual for ! Unix v5:
 
-- [! Unix Programmer's Manual, 5th Edition](https://www.tuhs.org/Archive/Distributions/Research/Dennis_v5/v5man.pdf)
+- [! Unix Programmer's Manual, 5th Edition](http://squoze.net/UNIX/v5man/all.pdf)
 
 Reading the volume 2A and 2B of ! Unix v7 manual is also helpful. They contain many short tutorials which will be helpful in learning how to use Unix. While the manual is for v7, most of the information included there applies to every version of Unix.
 
@@ -39,8 +39,10 @@ You may also be interested in the PDP-11 manuals. It was the computer on which !
 - [Wikipedia](https://en.wikipedia.org/wiki/History_of_Unix#1970s)
 - [Computer History Wiki ! Unix v5 page](https://gunkies.org/wiki/UNIX_Fifth_Edition)
 - [Computer History Wiki PDP-11 page](https://gunkies.org/wiki/PDP-11)
+- [The Unix Heritage Society (TUHS) wiki page on ! Unix v5](https://wiki.tuhs.org/doku.php?id=systems:5th_edition)
 - [Computer History Wiki tutorial on running ! Unix v5 on SIMH](https://gunkies.org/wiki/Running_Unix_v5_in_SIMH)
+- [Tutorial from squoze.net on running ! Unix v5 on SIMH](http://squoze.net/UNIX/v5/running)
 
 ## Credits
 
-- The manuals were taken from [The Unix Heritage Society (TUHS)](https://www.tuhs.org) and [Bitsavers](http://bitsavers.org).
+- The manuals were taken from [http://squoze.net](http://squoze.net/), [this page from Bell Labs](https://s3.amazonaws.com/plan9-bell-labs/7thEdMan/bswv7.html) and [Bitsavers](http://bitsavers.org).

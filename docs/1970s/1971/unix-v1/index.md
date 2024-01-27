@@ -46,8 +46,10 @@ In particular, you may be interested in these:
 - [Computer History Wiki ! Unix v1 page](https://gunkies.org/wiki/UNIX_First_Edition)
 - [Computer History Wiki ! Unix v2 page](https://gunkies.org/wiki/UNIX_Second_Edition)
 - [Computer History Wiki PDP-11 page](https://gunkies.org/wiki/PDP-11)
+- [The Unix Heritage Society (TUHS) wiki page on ! Unix v1](https://wiki.tuhs.org/doku.php?id=systems:1st_edition)
+- [The Unix Heritage Society (TUHS) wiki page on ! Unix v2](https://wiki.tuhs.org/doku.php?id=systems:2nd_edition)
 - [The project to resurrect ! Unix v1/v2](https://code.google.com/archive/p/unix-jun72/)
 
 ## Credits
 
-- The manuals were taken from [The Unix Heritage Society (TUHS)](https://www.tuhs.org) and [Bitsavers](http://bitsavers.org).
+- The manuals were taken from [The Unix Heritage Society (TUHS)](https://www.tuhs.org), [this page from Bell Labs](https://s3.amazonaws.com/plan9-bell-labs/7thEdMan/bswv7.html) and [Bitsavers](http://bitsavers.org).

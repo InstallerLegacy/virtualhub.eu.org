@@ -31,6 +31,7 @@ You may also be interested in the PDP-7 manuals. It was the computer on which ! 
 - [Wikipedia](https://en.wikipedia.org/wiki/UNIX)
 - [Computer History Wiki ! PDP7 Unix page](https://gunkies.org/wiki/PDP-7_UNIX)
 - [Computer History Wiki PDP-7 page](https://gunkies.org/wiki/PDP-7)
+- [The Unix Heritage Society (TUHS) wiki page on ! PDP-7 Unix](https://wiki.tuhs.org/doku.php?id=systems:pdp7_unix)
 - [The project to resurrect Unix on the PDP-7 from a scan of the original assembly code](https://github.com/DoctorWkt/pdp7-unix)
 
 ## Credits
