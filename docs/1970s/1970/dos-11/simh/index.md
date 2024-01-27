@@ -11,7 +11,6 @@ sidebar_label: "! DOS-11 on SIMH"
 ![SIMH PDP-11 emulator with ! DOS-11](./dos-11-simh-23.webp)
 
 We can run [! DOS-11](/1970s/1970/dos-11) on the SIMH PDP-11 emulator. First, we need to download the ! DOS-11 tapes.
-dos-11-simh-23.webp
 
 ## Downloads
 

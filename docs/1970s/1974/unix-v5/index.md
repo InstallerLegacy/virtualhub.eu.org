@@ -1,15 +1,19 @@
 ---
-keywords: ["nsys", "Unix v5", "Unix", "PDP-11", 1970s, 1974]
+keywords: ["Unix v5", "Unix", "PDP-11", "1970s", "1974"]
 image: ./unix-v5.webp
 description: "! Unix v5 was an operating system for the DEC PDP-11 computer. It was developed by Bell Labs."
-sidebar_position: 2
+sidebar_position: 1
 ---
+
+import DocCardList from '@theme/DocCardList';
 
 # ! Unix v5
 
 ![! Unix v5](./unix-v5.webp)
 
 ! Unix v5 was an operating system for the DEC PDP-11 computer. It was developed by Bell Labs. It can be used on SIMH PDP-11 emulator.
+
+<DocCardList />
 
 ## Manuals
 

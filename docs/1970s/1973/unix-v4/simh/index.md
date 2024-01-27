@@ -1,5 +1,5 @@
 ---
-keywords: ["Unix v1", "Unix", "PDP-11", "SIMH", 1970s, 1973]
+keywords: ["Unix v4", "Unix", "PDP-11", "SIMH", 1970s, 1973]
 image: ./unix-v4-SIMH-5.webp
 description: "Sadly, we do not have a complete copy of Unix v4, but we do have a copy of a kernel that is from between v3 and v4. We can use that kernel with v5 userland."
 sidebar_position: 1
@@ -20,7 +20,7 @@ First, we need to prepare an image of Unix v5 with the `nsys` kernel. We have pr
 
 If you want to prepare the image yourself, refer to [our guide on how to do so](/blog/how-to-put-the-nsys-kernel-on-a-disk-image-of-unix-v5/).
 
-## Using ! Unix-v5
+## Using ! Unix-v4
 
 :::tip
 
