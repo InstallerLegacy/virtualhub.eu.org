@@ -35,7 +35,7 @@ You may also be interested in the PDP-11 manuals. It was the computer on which !
 <!-- - [VirtualHub Screenshots](https://screenshots.virtualhub.eu.org/1970s/1974/unix-v5/) -->
 
 - [Run ! Unix v5 in your web browser: Paul Nankervis' emulator](https://skn.noip.me/pdp11/pdp11.html) (Instructions given on page)
-- [Run ! Unix v5 in your web browser: PCjs](https://www.pcjs.org/machines/dec/pdp11/1145/panel/) (Instructions coming soon)
+- [Run ! Unix v5 in your web browser: PCjs](https://www.pcjs.org/machines/dec/pdp11/1145/panel/) (Choose the `Unix v5 (SimH)` image in `RK0` slot. Click on Load. Then reset the machine. At the `Boot>` prompt, enter `boot rk0`. You will get an `@` prompt. Type `unix` to boot ! Unix v5. Log in using the username `root`. You can run `ls` to see list of files.)
 - [Wikipedia](https://en.wikipedia.org/wiki/History_of_Unix#1970s)
 - [Computer History Wiki ! Unix v5 page](https://gunkies.org/wiki/UNIX_Fifth_Edition)
 - [Computer History Wiki PDP-11 page](https://gunkies.org/wiki/PDP-11)
