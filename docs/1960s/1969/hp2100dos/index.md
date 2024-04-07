@@ -23,7 +23,7 @@ You can download the ! HP 2100 DOS manual from here:
 
 You may also be interested in the HP 2100 manuals. They were the computers on which ! HP 2100 was supposed to run. You can download them from Bitsavers:
 
-- [PDP-8 Manuals](http://www.bitsavers.org/pdf/hp/21xx/)
+- [HP 2100 Manuals](http://www.bitsavers.org/pdf/hp/21xx/)
 
 ## Related Pages
 
