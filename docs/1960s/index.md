@@ -27,6 +27,9 @@ The 1960s were mainly the years of mainframes and minicomputers. In this section
     <div className="col text--center padding-horiz--md padding-vert--md">
       <a href="/1960s/1968" className="button button--primary">1968</a>
     </div>
+    <div className="col text--center padding-horiz--md padding-vert--md">
+      <a href="/1960s/1969" className="button button--primary">1969</a>
+    </div>
   </div>
 </div>
 
