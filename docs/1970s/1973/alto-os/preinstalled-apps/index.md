@@ -1,5 +1,5 @@
 ---
-keywords: ["Neptune", "Draw", "Markup", "Laurel", "Bravo", "Alto OS", "Xerox", "Alto", "ContrAlto", 1970s, 1973]
+keywords: ["Neptune", "Draw", "Markup", "Laurel", "Bravo", "Alto OS", "Xerox", "Alto", "ContrAlto", "Salto", 1970s, 1973]
 image: ./alto-os-pi-5.webp
 description: "There are quite a few preinstalled apps in Alto OS. It includes things from file manager to Word processing software. Let's start with the simplest, the file manager."
 sidebar_position: 2
@@ -9,13 +9,7 @@ sidebar_position: 2
 
 ![Bravo Word Processor](./alto-os-pi-5.webp)
 
-:::tip
-
-To interact with Alto OS, you need to click on the emulation window. Doing so will lock your mouse and keyboard to inside the window. To free them again, press the `Alt` key.
-
-:::
-
-Now that we have [installed Alto OS](/1970s/1973/alto-os/contralto/), let's use some apps on it. There are quite a few preinstalled apps in Alto OS. It includes things from file manager to Word processing software. Let's start with the simplest, the file manager. First, start Alto OS.
+Now that we have [installed Alto OS](/1970s/1973/alto-os/), let's use some apps on it. There are quite a few preinstalled apps in Alto OS. It includes things from file manager to Word processing software. Let's start with the simplest, the file manager. First, start Alto OS.
 
 :::tip
 
