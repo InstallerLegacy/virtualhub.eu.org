@@ -110,4 +110,4 @@ There are several preinstalled apps on the disk image. We cover them here:
 
 Do you want to follow the tutorial by watching a video? We will post a video on our [YouTube channel](https://www.youtube.com/@virtua1hub) soon.
 
-Archives of this tutorial are available on [Wayback Machine](https://web.archive.org/web/*/https://virtualhub.eu.org1970s/1973/alto-os/contralto/).
+Archives of this tutorial are available on [Wayback Machine](https://web.archive.org/web/*/https://virtualhub.eu.org/1970s/1973/alto-os/contralto/).
