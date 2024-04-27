@@ -1,5 +1,5 @@
 ---
-keywords: ["HP 2100", "HP 2100 DOS", "HP", 1960s, 1968]
+keywords: ["HP 2100", "HP 2100 DOS", "HP", 1960s, 1969]
 image: ./hp2100dos.webp
 description: "! HP 2100 DOS, as the name suggests, was an operating system for the HP 2100 computer."
 sidebar_position: 1
@@ -21,7 +21,7 @@ You can download the ! HP 2100 DOS manual from here:
 
 - [! HP 2100 DOS manual](http://www.bitsavers.org/pdf/hp/21xx/dos/02116-91748_DiscOS_1969.pdf)
 
-You may also be interested in the HP 2100 manuals. They were the computers on which ! HP 2100 was supposed to run. You can download them from Bitsavers:
+You may also be interested in the HP 2100 manuals. They were the computers on which ! HP 2100 DOS was supposed to run. You can download them from Bitsavers:
 
 - [HP 2100 Manuals](http://www.bitsavers.org/pdf/hp/21xx/)
 
