@@ -55,7 +55,11 @@ Type `S,L,W` followed by `!`. It will list all the files available on the disk.
 
 ![List of files in ! DECSys-7](./DECSys-7-SIMH-4.webp)
 
-That's it! We used ! DECSys-7. We can create a shell script to make it easy to launch the VM. Create a file called `DECSys-7.sh` with the following content:
+That's it! We used ! DECSys-7. We can create a shell script to make it easy to launch the VM.
+
+### Linux
+
+Create a file called `DECSys-7.sh` with the following content:
 
 ```bash
 #!/bin/bash
@@ -74,13 +78,13 @@ See the [manuals section](/1960s/1965/decsys/#manuals) on the [main ! DECSys-7 p
 
 ### Windows
 
-:::tip
+Create a file called `DECSys-7.bat` with the following content:
 
-You should use Linux. If you don’t know how to install a Linux distro, see [our tutorials on how to install Kubuntu](https://setup.virtualhub.eu.org/tag/os/), a beginner-friendly distro.
+```bash
+pdp7
+```
 
-:::
-
-On Windows, you need to place the `PDP7.exe` file you downloaded in [this tutorial](https://setup.virtualhub.eu.org/simh-pdp7#windows) in the VM folder. Then you can follow the above tutorial as usual. The shell script will not work on Windows. You need to rename it to `DECSys-7.bat`. Then you can double-click the file to launch the VM, no need to make it executable.
+Now you can start the VM by double-clicking the shell script. See the [manuals section](/1960s/1965/decsys/#manuals) on the [main ! DECSys-7 page](/1960s/1965/decsys) to learn how to use it.
 
 ## Credits
 

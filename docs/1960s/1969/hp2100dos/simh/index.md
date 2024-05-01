@@ -75,7 +75,11 @@ After the emulator starts, type `:LIST,X,1` and press enter. It will list all th
 
 ![List of files in ! HP 2100 DOS](./HP-2100-DOS-3.webp)
 
-That's it! We used ! HP 2100 DOS. We can create a shell script to make it easy to launch the VM. Create a file called `HP-2100-DOS.sh` with the following content:
+That's it! We used ! HP 2100 DOS. We can create a shell script to make it easy to launch the VM.
+
+### Linux
+
+Create a file called `HP-2100-DOS.sh` with the following content:
 
 ```bash
 #!/bin/bash
@@ -94,13 +98,13 @@ See the [manuals section](/1960s/1969/hp2100dos/#manuals) on the [main ! HP 2100
 
 ### Windows
 
-:::tip
+Create a file called `HP-2100-DOS.bat` with the following content:
 
-You should use Linux. If you don’t know how to install a Linux distro, see [our tutorials on how to install Kubuntu](https://setup.virtualhub.eu.org/tag/os/), a beginner-friendly distro.
+```bash
+hp2100
+```
 
-:::
-
-On Windows, you need to place the `hp2100.exe` file you downloaded in [this tutorial](https://setup.virtualhub.eu.org/simh-hp2100#windows) in the VM folder. Then you can follow the above tutorial as usual. The shell script will not work on Windows. You need to rename it to `HP-2100-DOS.bat`. Then you can double-click the file to launch the VM, no need to make it executable.
+Now you can start the VM by double-clicking the shell script. See the [manuals section](/1960s/1969/hp2100dos/#manuals) on the [main ! HP 2100 DOS page](/1960s/1969/hp2100dos/) to learn how to use it.
 
 ## Credits
 

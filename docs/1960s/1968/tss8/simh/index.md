@@ -65,7 +65,11 @@ Type `R CAT` and press enter. It will list all the files available on the disk.
 
 ![List of files in ! TSS/8](./TSS8-4.webp)
 
-That's it! We used ! TSS/8. We can create a shell script to make it easy to launch the VM. Create a file called `TSS8.sh` with the following content:
+That's it! We used ! TSS/8. We can create a shell script to make it easy to launch the VM.
+
+### Linux
+
+Create a file called `TSS8.sh` with the following content:
 
 ```bash
 #!/bin/bash
@@ -84,13 +88,13 @@ See the [manuals section](/1960s/1968/tss8/#manuals) on the [main ! TSS/8 page](
 
 ### Windows
 
-:::tip
+Create a file called `TSS8.bat` with the following content:
 
-You should use Linux. If you don’t know how to install a Linux distro, see [our tutorials on how to install Kubuntu](https://setup.virtualhub.eu.org/tag/os/), a beginner-friendly distro.
+```bash
+pdp8
+```
 
-:::
-
-On Windows, you need to place the `PDP8.exe` file you downloaded in [this tutorial](https://setup.virtualhub.eu.org/simh-pdp8#windows) in the VM folder. Then you can follow the above tutorial as usual. The shell script will not work on Windows. You need to rename it to `TSS8.bat`. Then you can double-click the file to launch the VM, no need to make it executable.
+Now you can start the VM by double-clicking the shell script. See the [manuals section](/1960s/1968/tss8/#manuals) on the [main ! TSS/8 page](/1960s/1968/tss8/) and [this website](https://raymii.org/s/articles/Running_TSS_8_on_the_DEC_PiDP-8_i_and_SIMH.html) to learn how to use it.
 
 ## Credits
 
