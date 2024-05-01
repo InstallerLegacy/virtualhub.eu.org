@@ -53,7 +53,11 @@ After the emulator starts, you can enter `D` to see the list of files:
 
 ![D](./adss-15-SIMH-2.webp)
 
-That's it! We used ! ADSS-15. We can create a shell script to make it easy to launch the VM. Create a file called `adss-15.sh` with the following content:
+That's it! We used ! ADSS-15. We can create a shell script to make it easy to launch the VM.
+
+### Linux
+
+Create a file called `adss-15.sh` with the following content:
 
 ```bash
 #!/bin/bash
@@ -72,13 +76,13 @@ See the [manuals section](/1970s/1970/adss-15/#manuals) on the [main ! ADSS-15 p
 
 ### Windows
 
-:::tip
+Create a file called `adss-15.bat` with the following content:
 
-You should use Linux. If you don’t know how to install a Linux distro, see [our tutorials on how to install Kubuntu](https://setup.virtualhub.eu.org/tag/os/), a beginner-friendly distro.
+```bash
+pdp15
+```
 
-:::
-
-On Windows, you need to place the `PDP15.exe` file you downloaded in [this tutorial](https://setup.virtualhub.eu.org/simh-pdp15#windows) in the VM folder. Then you can follow the above tutorial as usual. The shell script will not work on Windows. You need to rename it to `adss-15.bat`. Then you can double-click the file to launch the VM, no need to make it executable.
+Now you can start the VM by double-clicking the shell script. See the [manuals section](/1970s/1970/adss-15/#manuals) on the [main ! ADSS-15 page](/1970s/1970/adss-15) to learn how to use it.
 
 ## Credits
 
