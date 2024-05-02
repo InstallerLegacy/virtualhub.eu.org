@@ -53,12 +53,6 @@ Now you can start the emulator using the shell script. For example, on KDE you c
 
 ### Windows
 
-:::tip
-
-You should use Linux. If you don’t know how to install a Linux distro, see [our tutorials on how to install Kubuntu](https://setup.virtualhub.eu.org/tag/os/), a beginner-friendly distro.
-
-:::
-
 Open the Salto folder and double click on the `nonprog.bat` file to start the emulator. Salto does not support permanent changes to the disks, so it is useless to *install* Alto OS. You can just use it as it is.
 
 That's it! We used Alto OS. See the [manuals section](/1970s/1973/alto-os/#manuals) on the [main Alto OS page](/1970s/1973/alto-os/) to learn how to use it.

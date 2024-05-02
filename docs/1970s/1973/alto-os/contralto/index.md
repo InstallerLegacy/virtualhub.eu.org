@@ -66,12 +66,6 @@ You can now continue with [installing Alto OS](#installing-alto-os).
 
 ### Windows
 
-:::tip
-
-You should use Linux. If you don’t know how to install a Linux distro, see [our tutorials on how to install Kubuntu](https://setup.virtualhub.eu.org/tag/os/), a beginner-friendly distro.
-
-:::
-
 Start the ContrAlto emulator from Start menu. After it opens, click on `System` > `Drive 0` > `Load`. Choose the `nonprog.dsk` file. Now click on `System` > `Start`. The emulation will start. You can now continue with [installing Alto OS](#installing-alto-os).
 
 ## Installing Alto OS
