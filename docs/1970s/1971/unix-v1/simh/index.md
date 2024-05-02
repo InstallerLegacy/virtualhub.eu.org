@@ -28,7 +28,7 @@ If you have not already installed SIMH PDP-11 emulator, see [the VirtualHub Setu
 
 :::
 
-Extract the kit you downloaded. Inside you will find several files. Create a folder somewhere to store the files for this VM and move the files named `m792low.load`, `rf0.dsk`, `rfk.dsk` and `tape` into it.
+Extract the kit you downloaded. Inside you will find several files. Create a folder somewhere to store the files for this VM and move the files named `m792low.load`, `rf0.dsk`, `rk0.dsk` and `tape` into it.
 
 Now we will create a config file for our VM. Create a text file called `pdp11.ini` with the following content in the VM folder:
 
