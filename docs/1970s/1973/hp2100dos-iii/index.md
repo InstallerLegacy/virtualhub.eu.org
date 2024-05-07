@@ -1,5 +1,5 @@
 ---
-keywords: ["HP 2100", "HP 2100 DOS-III", "HP", 1970s, 1970]
+keywords: ["HP 2100", "HP 2100 DOS-III", "HP", 1970s, 1973]
 image: ./hp2100dos-iii.webp
 description: "! HP 2100 DOS-III, as the name suggests, was an operating system for the HP 2100 computer."
 sidebar_position: 3

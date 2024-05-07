@@ -1,7 +1,7 @@
 ---
 keywords: ["SIMH", "HP 2100", "HP 2100 DOS-III", "HP", 1970s, 1973]
 image: ./HP-2100-DOS-III-3.webp
-description: 'We can run ! HP 2100 DOS-III on the SIMH HP 2100 emulator. First, we need to download the ! HP 2100 DOS-III kit. You can download the kit needed to run ! HP 2100 DOS-III on the SIMH HP 2100 emulator from the "SIMH Legacy" website:'
+description: "We can run ! HP 2100 DOS-III on the SIMH HP 2100 emulator. First, we need to download the ! HP 2100 DOS-III kit. You can download the kit needed to run ! HP 2100 DOS-III on the SIMH HP 2100 emulator from the GitHub user rsanchovilla's software kits repository:"
 sidebar_position: 1
 sidebar_label: "! HP 2100 DOS-III on SIMH"
 ---

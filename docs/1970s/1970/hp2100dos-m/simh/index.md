@@ -26,7 +26,7 @@ If you have not already installed SIMH HP 2100 emulator, see [the VirtualHub Set
 
 :::
 
-Extract the kit you downloaded. Inside you will find several files. Create a folder somewhere to store the files for this VM and move the file named `DOS-M.disc` into it. Open the `dsgen` folder inside the extrcted folder and move the file called `conf_bootstrap.abs` to the VM folder.
+Extract the kit you downloaded. Inside you will find several files. Create a folder somewhere to store the files for this VM and move the file named `DOS-M.disc` into it. Open the `dsgen` folder inside the extracted folder and move the file called `conf_bootstrap.abs` to the VM folder.
 
 Now we will create a config file for our VM. Create a text file called `hp2100.ini` with the following content in the VM folder:
 
