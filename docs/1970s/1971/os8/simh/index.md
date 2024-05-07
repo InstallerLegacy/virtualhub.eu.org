@@ -3,7 +3,7 @@ keywords: ["OS/8", "PDP-8", SIMH, 1970s, 1971]
 image: ./OS8-SIMH-3.webp
 description: 'We can run ! OS/8 on the SIMH PDP-8 emulator. First, we need to download the ! OS/8 kit. You can download the kit needed to run ! OS/8 on the SIMH PDP-8 emulator from the "SIMH Legacy" website:'
 sidebar_position: 1
-sidebar_label: "! OS/8 Unix on SIMH"
+sidebar_label: "! OS/8 on SIMH"
 ---
 
 # How to install ! OS/8 on SIMH?
