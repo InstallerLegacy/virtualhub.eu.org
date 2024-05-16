@@ -44,7 +44,7 @@ Now open a terminal and move to the VM folder. Run the following command to star
 pdp11
 ```
 
-![pdp11](unix-v5-SIMH-2.webp)
+![pdp11](./unix-v5-SIMH-2.webp)
 
 After the emulator starts, you will get a `@` prompt. Type `unix` and press enter to run the `unix` kernel.
 
@@ -80,7 +80,6 @@ Now you can start the VM using the shell script. For example, on KDE you can rig
 See the [manuals section](/1970s/1974/unix-v5/#manuals) on the [main ! Unix-v5 page](/1970s/1974/unix-v5) to learn how to use it.
 
 ### Windows
-
 
 Create a file called `unix-v5.bat` with the following content:
 
