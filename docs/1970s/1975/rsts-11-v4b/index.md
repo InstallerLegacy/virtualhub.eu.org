@@ -5,15 +5,11 @@ description: "! RSTS-11 v4B was an operating system for the DEC PDP-11 computer.
 sidebar_position: 2
 ---
 
-<!-- import DocCardList from '@theme/DocCardList'; -->
-
 # ! RSTS-11 v4B
 
 ![! RSTS-11 v4B](./rsts-11-v4b.webp)
 
 ! RSTS-11 v4B was an operating system for the DEC PDP-11 computer. We can run it on SIMH PDP-11 emulator.
-
-<!-- >DocCardList /> -->
 
 ## Manuals
 
@@ -31,7 +27,7 @@ You may also be interested in the PDP-11 manuals. It was the computer on which !
 
 - [VirtualHub Screenshots](https://screenshots.virtualhub.eu.org/1970s/1975/rsts-11-v4b/)
 - [A guide providing instructions on how to install ! RSTS-11 v4B manually on SIMH PDP-11 emulator](https://iamvirtual.ca/PDP-11/RSTS-11/Install.htm)
-- [Run ! RSTS-11 v4B in your web browser (Not working as of 05-June-2024))](https://skn.noip.me/pdp11/pdp11.html) (Instructions given on that page)
+- [Run ! RSTS-11 v4B in your web browser (Not working as of 05-June-2024)](https://skn.noip.me/pdp11/pdp11.html) (Instructions given on that page)
 - [Computer History Wiki page](https://gunkies.org/wiki/RSTS/E)
 - [Wikipedia page](https://en.wikipedia.org/wiki/RSTS/E)
 - [Computer History Wiki PDP-11 page](https://gunkies.org/wiki/PDP-11)
