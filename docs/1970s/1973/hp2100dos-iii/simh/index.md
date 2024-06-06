@@ -26,7 +26,7 @@ If you have not already installed SIMH HP 2100 emulator, see [the VirtualHub Set
 
 :::
 
-Extract the kit you downloaded. Inside you will find several files. Create a folder somewhere to store the files for this VM and move the files named `DOS-III_0.disc` and `DOS-III_1.disc` into it.
+Extract the kit you downloaded. Inside you will find several files. Create a folder somewhere to store the files for this VM and move the file named `DOS-III_0.disc` and `DOS-III_1.disc` into it.
 
 Now we will create a config file for our VM. Create a text file called `hp2100.ini` with the following content in the VM folder:
 
