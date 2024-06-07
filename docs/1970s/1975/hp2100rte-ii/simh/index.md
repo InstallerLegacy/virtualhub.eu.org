@@ -10,7 +10,7 @@ sidebar_label: "! HP 2100 RTE-II on SIMH"
 
 ![SIMH HP 2100 emulator with ! HP 2100 RTE-II](./HP-2100-RTE-II-3.webp)
 
-We can run [! HP 2100 RTE-II](/1970s/1975/hp2100rte) on the SIMH HP 2100 emulator. First, we need to download the ! HP 2100 RTE-II kit.
+We can run [! HP 2100 RTE-II](/1970s/1975/hp2100rte-ii) on the SIMH HP 2100 emulator. First, we need to download the ! HP 2100 RTE-II kit.
 
 ## Downloads
 
