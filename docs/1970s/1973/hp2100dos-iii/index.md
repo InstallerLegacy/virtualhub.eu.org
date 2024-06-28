@@ -19,7 +19,8 @@ import DocCardList from '@theme/DocCardList';
 
 You can download the ! HP 2100 DOS-III manual from here:
 
-- [! HP DOS-III ERS](http://www.bitsavers.org/pdf/hp/21xx/dosIII/DOSIII_ERS.pdf)
+- [! HP 2100 DOS-III Manual](https://github.com/rsanchovilla/SimH_cpanel/raw/master/Manual/HP2100/DOS-III/24307-90006_Feb-1975.pdf)
+- [! HP 2100 DOS-III ERS](http://www.bitsavers.org/pdf/hp/21xx/dosIII/DOSIII_ERS.pdf)
 
 You may also be interested in the HP 2100 manuals. They were the computers on which ! HP 2100 DOS-III was supposed to run. You can download them from Bitsavers:
 
@@ -33,5 +34,5 @@ You may also be interested in the HP 2100 manuals. They were the computers on wh
 
 ## Credits
 
-- The manuals were taken from [Bitsavers](http://bitsavers.org).
+- The manuals were taken from [Bitsavers](http://bitsavers.org) and GitHub user [rsanchovilla's](https://github.com/rsanchovilla/) [SimH_cpanel repository](https://github.com/rsanchovilla/SimH_cpanel).
 
