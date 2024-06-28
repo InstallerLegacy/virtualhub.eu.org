@@ -17,9 +17,9 @@ import DocCardList from '@theme/DocCardList';
 
 ## Manuals
 
-There is no specific documentation available for ! HP 2100 MTS. The Bitsavers folder for ! HP 2100 MTS is empty:
+You can download the ! HP 2100 MTS manual from here:
 
-- [! HP 2100 MTS Bitsavers folder](http://www.bitsavers.org/pdf/hp/21xx/mts/)
+- [! HP 2100 MTS Manual](https://github.com/rsanchovilla/SimH_cpanel/raw/master/Manual/HP2100/MTS/MagneticTapeSystem_02116-91752_106pages_Apr70.pdf)
 
 You may be interested in the HP 2100 manuals. They were the computers on which ! HP 2100 MTS was supposed to run. You can download them from Bitsavers:
 
@@ -33,5 +33,4 @@ You may be interested in the HP 2100 manuals. They were the computers on which !
 
 ## Credits
 
-- The manuals were taken from [Bitsavers](http://bitsavers.org).
-
+- The manuals were taken from [Bitsavers](http://bitsavers.org) and GitHub user [rsanchovilla's](https://github.com/rsanchovilla/) [SimH_cpanel repository](https://github.com/rsanchovilla/SimH_cpanel).
