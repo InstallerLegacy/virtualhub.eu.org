@@ -19,6 +19,7 @@ import DocCardList from '@theme/DocCardList';
 
 You can download the ! HP 2100 DOS-M manual from here:
 
+- [! HP 2100 DOS-M Manual](https://github.com/rsanchovilla/SimH_cpanel/raw/master/Manual/HP2100/DOS-M/MovingHead_DiscOperatingSystem_02116-91779_244pages_Mar71.pdf)
 - [! System Analyst DOS-M Course manual](http://www.bitsavers.org/pdf/hp/21xx/dosm/DOS-M_SysAnalyCourse_Jan71.pdf)
 
 You may also be interested in the HP 2100 manuals. They were the computers on which ! HP 2100 DOS-M was supposed to run. You can download them from Bitsavers:
@@ -33,5 +34,5 @@ You may also be interested in the HP 2100 manuals. They were the computers on wh
 
 ## Credits
 
-- The manuals were taken from [Bitsavers](http://bitsavers.org).
+- The manuals were taken from [Bitsavers](http://bitsavers.org) and GitHub user [rsanchovilla's](https://github.com/rsanchovilla/) [SimH_cpanel repository](https://github.com/rsanchovilla/SimH_cpanel).
 
