@@ -7,7 +7,7 @@ const FeatureList = [
     title: '1960s',
     description: (
       <>
-        The 1960s were mainly the years of mainframes and minicomputers. It saw the rise of DEC minicomputers like PDP-1, PDP-4, PDP-7, PDP-9, PDP-15, PDP-5, PDP-8, PDP-12 and the PDP-11. There were many interesting operating systems made for these computers.
+        The 1960s were mainly the years of mainframes and minicomputers. It saw the rise of minicomputers like the DEC PDP line, HP 2100, CDC 1700 and Data General Nova. There were many interesting operating systems made for these computers.
       </>
     ),
     link: '/1960s',
@@ -57,7 +57,7 @@ const FeatureList = [
     title: 'Apps',
     description: (
       <>
-        Using Operating Systems with built-in apps only is boring. See our tutorials on how to install different third-party apps from on different operating systems. Explore the old <em>killer</em> apps like Visicalc and Word Star and feel their power.
+        Using Operating Systems with built-in apps only is boring. See our tutorials on how to install different third-party apps on different operating systems. Explore the old <em>killer</em> apps like Visicalc and WordStar and feel their power.
       </>
     ),
     link: '#',
