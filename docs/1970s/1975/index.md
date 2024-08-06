@@ -2,7 +2,7 @@
 keywords: [1970s, 1975]
 image: ./1975.webp
 description: "There was one operating system of our interest which was released in the year 1975. It was:"
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 import DocCardList from '@theme/DocCardList';
