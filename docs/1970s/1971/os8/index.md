@@ -28,7 +28,6 @@ You can download the ! OS/8 manuals from here:
 - [! OS/8 System Generation Notes](http://bitsavers.org/pdf/dec/pdp8/os8/AA-H606A-TA_os8SysgenNotes.pdf)
 - [! OS/8 Device Extensions User's Guide](http://bitsavers.org/pdf/dec/pdp8/os8/AA-D319A-TA_os8DevExt.pdf)
 - [! OS/8 Error Messages](http://bitsavers.org/pdf/dec/pdp8/os8/AA-H610A-TA_os8errMsg_mar79.pdf)
-- [FORTRAN IV Software Support Manual](http://bitsavers.org/pdf/dec/pdp8/os8/DEC-S8-LFSSA-A-D_F4swSupp.pdf)
 
 You may also be interested in the PDP-8 manuals. They were the computers on which ! OS/8 was supposed to run. You can download them from Bitsavers:
 
