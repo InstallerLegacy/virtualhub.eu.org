@@ -51,7 +51,7 @@ pdp15
 
 After the emulator starts, you can enter `D` to see the list of files:
 
-![D](./adss-15-SIMH-2.webp)
+![D](./adss-15-SIMH-3.webp)
 
 That's it! We used ! ADSS-15. We can create a shell script to make it easy to launch the VM.
 
