@@ -104,6 +104,8 @@ boot DZP
 
 When prompted `Filename? `, type the name of the type of RDOS you want to run. For example, for NRDOS, type `NRDOS` and press enter.
 
+When asked for date, enter it in `MM/DD/YY` format. For example, enter `04/13/74`. Keep the year in 1970s or 80s, to avoid any issues. Similarly, when asked for time, enter it in `HH:MM:SS` format. For example, enter `12:55:31`.
+
 Now you can type `LIST` and press enter. It will list all the files available on the disk.
 
 ![List of files in ! Nova RDOS](./nova-rdos-wh-3.webp)
