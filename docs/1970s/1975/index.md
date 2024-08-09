@@ -1,7 +1,7 @@
 ---
 keywords: [1970s, 1975]
 image: ./1975.webp
-description: "There was one operating system of our interest which was released in the year 1975. It was:"
+description: "There were four operating system of our interest which were released in the year 1975. They were:"
 sidebar_position: 7
 ---
 
@@ -11,6 +11,6 @@ import DocCardList from '@theme/DocCardList';
 
 ![! Unix v6 from 1975](./1975.webp)
 
-There was one operating system of our interest which was released in the year 1975. It was:
+There were four operating system of our interest which were released in the year 1975. They were:
 
 <DocCardList />
