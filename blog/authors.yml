@@ -3,3 +3,7 @@ legacyinstaller:
   title: Founder of VirtualHub
   url: https://github.com/pulkitkrishna00
   image_url: /img/logo.webp
+  page: true
+  socials:
+    x: virtua1hub
+    github: InstallerLegacy

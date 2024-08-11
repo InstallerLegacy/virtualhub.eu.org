@@ -1,7 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import {useWindowSize} from '@docusaurus/theme-common';
-import {useDoc} from '@docusaurus/theme-common/internal';
+import {useDoc} from '@docusaurus/plugin-content-docs/client';
 import DocItemPaginator from '@theme/DocItem/Paginator';
 import DocVersionBanner from '@theme/DocVersionBanner';
 import DocVersionBadge from '@theme/DocVersionBadge';
@@ -10,7 +10,7 @@ import DocItemTOCMobile from '@theme/DocItem/TOC/Mobile';
 import DocItemTOCDesktop from '@theme/DocItem/TOC/Desktop';
 import DocItemContent from '@theme/DocItem/Content';
 import DocBreadcrumbs from '@theme/DocBreadcrumbs';
-import Unlisted from '@theme/Unlisted';
+import ContentVisibility from '@theme/ContentVisibility';
 import styles from './styles.module.css';
 import Giscus from '@giscus/react';
 import { useColorMode } from '@docusaurus/theme-common';
@@ -35,6 +35,7 @@ function useDocTOC() {
 }
 export default function DocItemLayout({children}) {
   const docTOC = useDocTOC();
+  const {metadata} = useDoc();
   const { colorMode } = useColorMode();
   const giscus = (
     <React.Fragment>
@@ -55,13 +56,10 @@ export default function DocItemLayout({children}) {
       />
     </React.Fragment>
   )
-  const {
-    metadata: {unlisted},
-  } = useDoc();
   return (
     <div className="row">
       <div className={clsx('col', !docTOC.hidden && styles.docItemCol)}>
-        {unlisted && <Unlisted />}
+        <ContentVisibility metadata={metadata} />
         <DocVersionBanner />
         <div className={styles.docItemContainer}>
           <article>
