@@ -23,16 +23,19 @@ description: "1970s were the age in which microcomputers evolved. This decade sa
     <div className="col text--center padding-horiz--md padding-vert--md">
       <a href="/1970s/1972" className="button button--primary">1972</a>
     </div>
-  </div>
-  <div className="row">
     <div className="col text--center padding-horiz--md padding-vert--md">
       <a href="/1970s/1973" className="button button--primary">1973</a>
     </div>
     <div className="col text--center padding-horiz--md padding-vert--md">
       <a href="/1970s/1974" className="button button--primary">1974</a>
     </div>
+  </div>
+  <div className="row">
     <div className="col text--center padding-horiz--md padding-vert--md">
       <a href="/1970s/1975" className="button button--primary">1975</a>
+    </div>
+    <div className="col text--center padding-horiz--md padding-vert--md">
+      <a href="/1970s/1976" className="button button--primary">1976</a>
     </div>
   </div>
 </div>

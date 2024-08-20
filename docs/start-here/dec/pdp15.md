@@ -11,3 +11,4 @@ These operating systems were made by [DEC](https://en.wikipedia.org/wiki/Digital
 
 - [! ADSS-15](/1970s/1970/adss-15/)
 - [! DOS-15](/1970s/1970/dos-15/)
+- [! XVM/DOS and ! XVM/RSX](/1970s/1976/xvm-dos-rsx/)
