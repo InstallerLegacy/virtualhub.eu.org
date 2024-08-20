@@ -39,7 +39,7 @@ You can download the ! XVM/DOS manuals from here:
 - [Fortran Language Manual](http://www.bitsavers.org/pdf/dec/pdp15/XVM/DEC-XV-LF4MA-A-D_FORTRAN_IV_XVM_LANGUAGE_MANUAL.pdf)
 - [Fortran Operating Env. Manual](http://www.bitsavers.org/pdf/dec/pdp15/XVM/DEC-XV-LF4EA-A-D_FORTRAN_IV_XVM_OPERATING_MANUAL.pdf)
 - [Macro XVM Assembler Language Manual](http://www.bitsavers.org/pdf/dec/pdp15/XVM/DEC-XV-LMALA-A-D-MACRO_XVM_ASSEMBLER_LANGUAGE_MANUAL.pdf)
-- [ac11 XVM Assembler Language Manual](http://www.bitsavers.org/pdf/dec/pdp15/XVM/DEC-XV-LMLAA-A-D-MAC11_XVM_ASSEMBLER_LANGUAGE_MANUAL.pdf)
+- [Mac11 XVM Assembler Language Manual](http://www.bitsavers.org/pdf/dec/pdp15/XVM/DEC-XV-LMLAA-A-D-MAC11_XVM_ASSEMBLER_LANGUAGE_MANUAL.pdf)
 - [Focal XVM Language Manual](http://www.bitsavers.org/pdf/dec/pdp15/XVM/DEC-XV-LFLGA-A-D-FOCAL_XVM_LANGUAGE_MANUAL.pdf)
 - [8Tran XVM Utility Manual](http://www.bitsavers.org/pdf/dec/pdp15/XVM/DEC-XV-UTRNA-A-D_8TRAN_UTILITY_MANUAL.pdf)
 
