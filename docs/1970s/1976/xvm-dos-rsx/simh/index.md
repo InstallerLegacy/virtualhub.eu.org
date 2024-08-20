@@ -62,7 +62,7 @@ That's it! We used ! XVM/DOS. Now, to run ! XVM/RSX, we first need to close PIP.
 
 :::tip
 
-Telnet client may not be installed by default depending on your host operating system. We will post a tutorial on how to install it on Windows and different Linux distributions on [VirtualHub Setup website](https://screenshots.virtualhub.eu.org) soon.
+Telnet client may not be installed by default depending on your host operating system. You can install it by following [this VirtualHub Setup tutorial](https://setup.virtualhub.eu.org/telnet/).
 
 :::
 
