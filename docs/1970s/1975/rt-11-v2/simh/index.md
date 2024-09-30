@@ -16,6 +16,12 @@ We can run [! RT-11 v2](/1970s/1975/rt-11-v2) on the SIMH PDP-11 emulator. First
 
 There are two different versions of RT-11 v2, whose image is available for us to use. They are RT-11 v2B and v2C. Both of them are mostly same, and you can use either. You can download the image needed to run ! RT-11 v2 on the SIMH PDP-11 emulator from here:
 
+:::tip
+
+These images come from [this ISO file](https://bitsavers.org/bits/DEC/pdp11/rt-11/Fine_RT-11_collection/RT11DV50.ISO.zip) on [bitsavers](https://bitsavers.org/). If you want, you can download the ISO file, and extract these images yourself.
+
+:::
+
 - [! RT-11 v2B image](https://github.com/InstallerLegacy/RT11DV50/raw/main/RTV2RK.B)
 - [! RT-11 v2C image](https://github.com/InstallerLegacy/RT11DV50/raw/main/RTV2RK.C)
 
