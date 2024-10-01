@@ -11,7 +11,7 @@ import DocCardList from '@theme/DocCardList';
 
 ![! Nova RDOS](./nova-rdos.webp)
 
-! Nova RDOS, as the name suggests, was an operating system for the Data General Nova computer. We can run itusing the Wild Hare emulator, or the SIMH emulator.
+! Nova RDOS, as the name suggests, was an operating system for the Data General Nova computer. We can run it using the Wild Hare emulator, or the SIMH emulator.
 
 <DocCardList />
 
@@ -32,7 +32,7 @@ You can download the ! Nova RDOS manuals from here:
 - [! RDOS Sort/Merge and Vertical Format Unit Utilities](http://www.novasareforever.org/archive/public/docs/dg/sw/os/rdos/069-400021-00__RDOS-DOS_Sort-Merge_and_Vertical_Format_Unit_Utilities__1983.pdf)
 - [! RDOS Backup and Move Utilities](http://www.novasareforever.org/archive/public/docs/dg/sw/os/rdos/069-400022-01__RDOS-DOS-DG-RDOS_Backup_and_Move_Utilities__1983-1984.pdf)
 
-You may be interested in the Nova computer manuals. They were the computers on which ! Nova RDOS was supposed to run. You can download them from Bitsavers:
+You may be interested in the Nova computer manuals. They were the computers on which ! Nova RDOS was supposed to run. You can download them from here:
 
 - [Data General Nova Manuals](http://www.novasareforever.org/dgdocs.hw/)
 
