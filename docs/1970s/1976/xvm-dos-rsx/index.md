@@ -1,5 +1,5 @@
 ---
-keywords: ["XVM/DOS", "XVM/RSX", "PDP-15", 1970s, 1970]
+keywords: ["XVM/DOS", "XVM/RSX", "PDP-15", 1970s, 1976]
 image: ./xvm-dos.webp
 description: "! XVM/DOS and ! XVM/RSX were operating systems for the DEC PDP-15 computer. We can run them on the SIMH PDP-15 emulator."
 sidebar_position: 1

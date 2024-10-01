@@ -1,5 +1,5 @@
 ---
-keywords: ["XVM/DOS", "XVM/RSX", "PDP-15", SIMH, 1970s, 1970]
+keywords: ["XVM/DOS", "XVM/RSX", "PDP-15", SIMH, 1970s, 1976]
 image: ./xvm-dos-rsx-SIMH-4.webp
 description: 'We can run ! XVM/DOS and ! XVM/RSX on the SIMH PDP-15 emulator. First, we need to download the ! XVM/RSX and ! XVM/DOS kit. You can download the kit needed from the "SIMH Legacy" website.'
 sidebar_position: 1

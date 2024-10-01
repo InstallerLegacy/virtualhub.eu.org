@@ -1,5 +1,5 @@
 ---
-keywords: ["Wild Hare", "Eclipse", "DG Eclipse", "AOS", "Data General AOS", "Data General Eclipse", "Data General", 1970s, 1972]
+keywords: ["Wild Hare", "Eclipse", "DG Eclipse", "AOS", "Data General AOS", "Data General Eclipse", "Data General", 1970s, 1976]
 image: ./dg-aos-wh-3.webp
 description: 'We can run ! Data General AOS on the Wild Hare Nova emulator. First, we need to download the ! Data General AOS disk image. You can download the disk image needed to run ! Data General AOS on the Wild Hare Nova emulator from the Wild Hare Legacy Preservation Website website:'
 sidebar_position: 1

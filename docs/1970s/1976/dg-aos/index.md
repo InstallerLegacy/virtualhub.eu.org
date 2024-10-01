@@ -1,5 +1,5 @@
 ---
-keywords: ["Eclipse", "Data General", "Data General AOS", "AOS", "Data General Eclipse", "RDOS", 1970s, 1972]
+keywords: ["Eclipse", "Data General", "Data General AOS", "AOS", "Data General Eclipse", 1970s, 1976]
 image: ./aos.webp
 description: "! Data General AOS, as the name suggests, was an operating system for the Data General computers."
 sidebar_position: 2
@@ -17,7 +17,7 @@ import DocCardList from '@theme/DocCardList';
 
 ## Manuals
 
-You can download the ! Nova RDOS manuals from here:
+You can download the ! Data General AOS manuals from here:
 
 - [! AOS User Self Study Course](http://www.novasareforever.org/archive/public/docs/dg/sw/os/aos/053-000032-00__AOS_AOS-VS_User_Self-Study_Course__1982-1984.pdf)
 - [! AOS Operator Self Study Course](http://www.novasareforever.org/archive/public/docs/dg/sw/os/aos/053-000045-00__AOS_AOS-VS_Operator_Self-Study_Course__1983.pdf)
@@ -38,7 +38,7 @@ You can download the ! Nova RDOS manuals from here:
 - [! AOS SWAT Debugger User's Manual](http://www.novasareforever.org/archive/public/docs/dg/sw/os/aos/093-000258-01A__SWAT_Debugger_Users_Manual__1982.c.p.pdf)
 - [! AOS SWAT Debugger User's Manual Addendum](http://www.novasareforever.org/archive/public/docs/dg/sw/os/aos/086-000045-00__Addendum_to_SWAT_Debugger_Users_Manual_093-000258-01__1982.c.pdf)
 
-You may be interested in the Data General computers' manuals. They were the computers on which ! Nova RDOS was supposed to run. You can download them from here:
+You may be interested in the Data General computers' manuals. They were the computers on which ! Data General AOS was supposed to run. You can download them from here:
 
 - [Data General Hardware Manuals](http://www.novasareforever.org/dgdocs.hw/)
 
