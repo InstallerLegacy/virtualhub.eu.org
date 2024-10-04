@@ -11,7 +11,7 @@ import DocCardList from '@theme/DocCardList';
 
 ![! Unix v4](./nsys.webp)
 
-! Unix v4 was an operating system for the DEC PDP-11 computer. It was developed by Bell Labs. Sadly, we do not have a complete copy of Unix v4, but we do have a copy of a [kernel](<https://en.wikipedia.org/wiki/Kernel_(operating_system)>) that is from between v3 and v4. We can use that kernel with v5 [userland](https://en.wikipedia.org/wiki/User_space). It can be used on SIMH PDP-11 emulator.
+! Unix v4 was an operating system for the DEC PDP-11 computer. It was developed by Bell Labs. Sadly, we do not have a complete copy of Unix v4, but we do have a copy of a [kernel](<https://en.wikipedia.org/wiki/Kernel_(operating_system)>) that is from between v3 and v4. We can use that kernel with v5 [userland](https://en.wikipedia.org/wiki/User_space). It can be used on SIMH PDP-11 emulator and the Ersatz-11 emulator.
 
 <DocCardList />
 
