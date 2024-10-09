@@ -1,7 +1,7 @@
 ---
 keywords: ["RSTS-11 v4B", "PDP-11", 1970s, 1975]
 image: ./rsts-11-v4b.webp
-description: "! RSTS-11 v4B was an operating system for the DEC PDP-11 computer. We can run it on SIMH PDP-11 emulator."
+description: "! RSTS-11 v4B was an operating system for the DEC PDP-11 computer. We can run it on SIMH PDP-11 emulator as well as the Ersatz-11 emulator."
 sidebar_position: 2
 ---
 
@@ -11,7 +11,7 @@ import DocCardList from '@theme/DocCardList';
 
 ![! RSTS-11 v4B](./rsts-11-v4b.webp)
 
-! RSTS-11 v4B was an operating system for the DEC PDP-11 computer. We can run it on SIMH PDP-11 emulator.
+! RSTS-11 v4B was an operating system for the DEC PDP-11 computer. We can run it on SIMH PDP-11 emulator as well as the Ersatz-11 emulator.
 
 <DocCardList />
 
