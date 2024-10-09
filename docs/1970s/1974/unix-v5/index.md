@@ -11,7 +11,7 @@ import DocCardList from '@theme/DocCardList';
 
 ![! Unix v5](./unix-v5.webp)
 
-! Unix v5 was an operating system for the DEC PDP-11 computer. It was developed by Bell Labs. It can be used on SIMH PDP-11 emulator.
+! Unix v5 was an operating system for the DEC PDP-11 computer. It was developed by Bell Labs. It can be used on SIMH PDP-11 emulator as well as the Ersatz-11 emulator.
 
 <DocCardList />
 
