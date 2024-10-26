@@ -1,7 +1,7 @@
 ---
 keywords: ["RT-11 v2", "PDP-11", 1970s, 1975]
 image: ./rt-11-v2.webp
-description: "! RT-11 v2 was an operating system for the DEC PDP-11 computer. We can run it on SIMH PDP-11 emulator."
+description: "! RT-11 v2 was an operating system for the DEC PDP-11 computer. We can run it on SIMH PDP-11 emulator as well as the Ersatz-11 emulator."
 sidebar_position: 4
 ---
 
@@ -11,7 +11,7 @@ import DocCardList from '@theme/DocCardList';
 
 ![! RT-11 v2](./rt-11-v2.webp)
 
-! RT-11 v2 was an operating system for the DEC PDP-11 computer. We can run it on SIMH PDP-11 emulator.
+! RT-11 v2 was an operating system for the DEC PDP-11 computer. We can run it on SIMH PDP-11 emulator as well as the Ersatz-11 emulator.
 
 <DocCardList />
 
