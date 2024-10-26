@@ -11,10 +11,12 @@ import DocCardList from '@theme/DocCardList';
 
 ![! Unix v6](./unix-v6.webp)
 
-! Unix v6 was an operating system for the DEC PDP-11 computer. It was later ported to Interdata 7/32 computer. It was developed by Bell Labs. It can be used on SIMH PDP-11 and Interdata 7/32 emulators.
+! Unix v6 was an operating system for the DEC PDP-11 computer. It was later ported to Interdata 7/32 computer. It was developed by Bell Labs. It can be used on SIMH PDP-11 and Interdata 7/32 emulators as well as the Ersatz-11 emulator.
 
 <DocCardList />
 
+For instructions on how to install ! Unix v6 on Ersatz-11 emulator, see the [Related Pages section](#related-pages) below.
+ 
 ## Manuals
 
 Here is the manual for ! Unix v6:
@@ -62,6 +64,7 @@ These documents were extracted from the Interdata 7/32 Unix port's installation,
 
 - [VirtualHub Screenshots](https://screenshots.virtualhub.eu.org/1970s/1975/unix-v6/)
 - [Run ! Unix v6 in your web browser](http://takahirox.github.io/pdp11-js/unixv6.html) (Instructions on page)
+- [Run ! Unix v6 on Ersatz-11 Emulator](http://mercury.lcs.mit.edu/~jnc/tech/V6Unix.html)
 - [Wikipedia](https://en.wikipedia.org/wiki/Version_6_Unix)
 - [Wikipedia PDP-11 page](https://en.wikipedia.org/wiki/PDP-11)
 - [Computer History Wiki ! Unix v6 page](https://gunkies.org/wiki/UNIX_Sixth_Edition)
