@@ -11,6 +11,9 @@ const config = {
   title: 'VirtualHub',
   tagline: 'Install old OS in VMs!',
   favicon: 'img/favicon.ico',
+  future: {
+    experimental_faster: true,
+  },
 
   // Set the production url of your site here
   url: 'https://virtualhub.eu.org',
