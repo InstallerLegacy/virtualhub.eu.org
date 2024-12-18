@@ -195,6 +195,11 @@ const config = {
             position: 'right',
           },
           {
+            type: 'html',
+            position: 'right',
+            value: '<iframe src="https://github.com/sponsors/pulkitkrishna00/button" title="Sponsor pulkitkrishna00" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>',
+          },
+          {
             href: 'https://github.com/InstallerLegacy/virtualhub.eu.org',
             position: 'right',
             className: 'header-github-link',
