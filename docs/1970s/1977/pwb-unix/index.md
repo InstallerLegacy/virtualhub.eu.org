@@ -20,7 +20,7 @@ import DocCardList from '@theme/DocCardList';
 Here are the manuals for ! PWB Unix:
 
 - [! PWB Unix User's Manual](https://bitsavers.org/pdf/att/unix/PWB_UNIX/PWB_UNIX_Users_Manual_Edition_1.0_197705.pdf)
-- [! Documents for PWB Unix](https://bitsavers.org/pdf/att/unix/PWB_UNIX/Documents_for_the_PWB_UNIX_Time-Sharing_System_Edition_1.0_197710.pdf)
+- [Documents for ! PWB Unix](https://bitsavers.org/pdf/att/unix/PWB_UNIX/Documents_for_the_PWB_UNIX_Time-Sharing_System_Edition_1.0_197710.pdf)
 
 You may also be interested in the PDP-11 manuals. It was the computer on which ! PWB Unix was supposed to run. You can download them from Bitsavers:
 
