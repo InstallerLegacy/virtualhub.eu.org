@@ -12,6 +12,7 @@ const config = {
   tagline: 'Install old OS in VMs!',
   favicon: 'img/favicon.ico',
   future: {
+    v4: true,
     experimental_faster: true,
   },
 
